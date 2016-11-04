@@ -1,0 +1,12 @@
+com\googlecode\blaisemath\parser\ParserTestApp.class
+com\googlecode\blaisemath\parser\TokenizerTest.class
+com\googlecode\blaisemath\parser\BooleanGrammarTest.class
+com\googlecode\blaisemath\parser\ParserTestApp$4.class
+com\googlecode\blaisemath\parser\ParserTestApp$2.class
+com\googlecode\blaisemath\parser\VectorGrammarTest.class
+com\googlecode\blaisemath\parser\ParserType.class
+com\googlecode\blaisemath\parser\TestGrammar.class
+com\googlecode\blaisemath\parser\TokenTreeTest.class
+com\googlecode\blaisemath\parser\ParserTestApp$1.class
+com\googlecode\blaisemath\parser\ParserTestApp$3.class
+com\googlecode\blaisemath\parser\RealGrammarTest.class
